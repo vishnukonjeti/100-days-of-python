@@ -60,4 +60,4 @@ calendar days. Progress is made at a steady and structured pace.
 
 ---
 
-**Author:** Vishnu Konjeti
+Author: Vishnu Konjeti
