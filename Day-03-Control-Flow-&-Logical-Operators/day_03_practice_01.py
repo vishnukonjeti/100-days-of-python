@@ -1,5 +1,5 @@
 """
-Day 03 - BMI Categorization
+Day 03 - BMI Categorization (Practice 1)
 Course: 100 Days of Code - Python Bootcamp (Angela Yu)
 
 This program calculates BMI and categorizes it
