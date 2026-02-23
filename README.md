@@ -1,32 +1,46 @@
-# 100 Days of Python - Daily Log
+# 100 Days of Python 🐍
 
-A comprehensive repository for tracking my daily progress, exercises, and projects from the **100 Days of Code: The Complete Python Pro Bootcamp** course.
+This repository contains my progress through the  
+**"100 Days of Code: The Complete Python Pro Bootcamp" by Angela Yu (Udemy).**
 
-## 🚀 Overview
-The goal of this challenge is to code for at least one hour every day for 100 days to master Python through hands-on projects. This repository serves as a portfolio of my journey from beginner to advanced concepts.
+I am completing the course at my own pace while focusing on
+building strong Python fundamentals through hands-on exercises and projects.
 
-## 🛠️ Tech Stack
-- **Language:** Python 3.x
-- **Libraries used:** (e.g., Turtle, Pandas, Flask, Selenium, Beautiful Soup)
-- **IDE:** (e.g., PyCharm, VS Code)
+---
 
-## 📅 Daily Progress Log
+## 📂 Repository Structure
 
-| Day | Project Title | Description | Key Learnings |
-| :--- | :--- | :--- | :--- |
-| 1 | [Band Name Generator](./day-01/) | Simple data input & string manipulation | Variables, Strings, Input function |
-| 2 | [Tip Calculator](./day-02/) | Data type manipulation and math operators | Floating point, f-strings, Type casting |
-| 3 | [Treasure Island](./day-03/) | A logic-based choose-your-own-adventure game | If/Else, Nested loops, Logical operators |
-| ... | ... | ... | ... |
+Each folder represents one day/module from the course.
 
-## 📂 Project Structure
-To keep things organized, each day has its own dedicated folder:
-```text
-.
-├── day-01-variables/
-│   └── main.py
-├── day-02-data-types/
-│   └── main.py
-├── assets/ (screenshots or demos)
-└── README.md
+Day-01-Variables/
+Day-02-Data-Types/
+...
+Day-100-Project/
 
+---
+
+## 🎯 Learning Goals
+
+- Strengthen Python fundamentals
+- Improve problem-solving skills
+- Write clean and structured code
+- Build project-based learning discipline
+
+---
+
+## 🛠 Tech Stack
+
+- Python 3.x
+- PyCharm
+- Git & GitHub
+
+---
+
+## 📌 Note
+
+This repository reflects my structured learning journey.
+The days represent course modules and not necessarily calendar days.
+
+---
+
+Author: Vishnu Konjeti
