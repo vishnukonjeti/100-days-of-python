@@ -1,11 +1,14 @@
-'''
-1. Create a greeting for your program.
-2. Ask the user for the city that they grew up in and store it in a variable.
-3. Ask the user for the name of a pet and store it in a variable.
-4. Combine the name of their city and pet and show them their band name.
-'''
+"""
+Day 01 - Band Name Generator
+Course: 100 Days of Code - Python Bootcamp (Angela Yu)
 
-print("Welcome to the Band Name Generator")
+This program generates a band name
+based on the user's city and pet name.
+"""
+
+print("Welcome to the Band Name Generator!")
+
 city = input("What's the name of the city you grew up in?\n")
-pet = input("What's your pet name?\n")
+pet = input("What's your pet's name?\n")
+
 print("Your band name could be " + city + " " + pet)
