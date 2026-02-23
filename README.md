@@ -14,8 +14,8 @@ strong Python fundamentals through hands-on exercises and projects.
 |-----|-------|----------|--------|
 | 01 | Variables & Strings | Band Name Generator | ✅ Completed |
 | 02 | Data Types & Math | BMI Calculator, Tip Calculator | ✅ Completed |
-| 03 | Control Flow | BMI Categorization, Pizza Order, Treasure Island | 🔄 In Progress |
-| 04 | Randomisation & Lists |  | ⏳ Pending |
+| 03 | Control Flow | BMI Categorization, Pizza Order, Treasure Island | ✅ Completed |
+| 04 | Randomisation & Lists |  | 🔄 In Progress |
 | 05 | Loops |  | ⏳ Pending |
 | 06 | Functions |  | ⏳ Pending |
 | ... | ... | ... | ... |
