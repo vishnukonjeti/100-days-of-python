@@ -16,8 +16,8 @@ strong Python fundamentals through hands-on exercises and projects.
 | 02 | Data Types & Math | BMI Calculator, Tip Calculator                   | ✅ Completed |
 | 03 | Control Flow | BMI Categorization, Pizza Order, Treasure Island | ✅ Completed |
 | 04 | Randomisation & Lists | Random Name Picker, Rock Paper Scissors          | ✅ Completed |
-| 05 | Loops | Find Highest Score                               | 🔄 In Progress |
-| 06 | Functions |                                                  | ⏳ Pending |
+| 05 | Loops | Find Highest Score, FizzBuzz, Password Generator | ✅ Completed |
+| 06 | Functions |                                                  | 🔄 In Progress |
 | ... | ... | ...                                              | ... |
 | 100 | Final Capstone Project |                                                  | ⏳ Pending |
 
